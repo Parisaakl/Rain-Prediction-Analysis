@@ -14,4 +14,10 @@ This project utilizes various data mining techniques to predict rainfall using a
 ## Usage
 Open the `DataMining_Project2RainDataset.ipynb` notebook and run the cells to see the analysis.
 
+## Dataset
+The dataset used in this project is based on 10 years of weather history from Australia, available on Kaggle. This dataset contains historical weather data necessary for analyzing and predicting rainfall patterns. 
+
+**Source**: The dataset can be accessed on [Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package). Note that the dataset used in this project has modifications in the column names to improve clarity and usability in analysis.
+
+
 
